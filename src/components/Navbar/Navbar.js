@@ -24,7 +24,7 @@ const Navbar = () => {
         <div className = "container">
           <div className = "navbar-top flex flex-between">
               <Link to = "/" className = "navbar-brand">
-                <span className = "text-regal-blue">Shopping</span><span className='text-gold'>Hub.</span>
+                <span className = "text-red">a</span><span className='text-gold'>2</span><span className = "text-red">z</span>
               </Link>
 
               <form className = "navbar-search flex">

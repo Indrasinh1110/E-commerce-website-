@@ -1,8 +1,11 @@
 @import "../../App.scss";
 .footer{
+    background-color:gold;
+    color:aqua;
     .footer-content{
         row-gap: 20px;
         .footer-item{
+            
             ul{
                 li{
                     margin: 0.7rem 0;
